@@ -1,6 +1,6 @@
-#rocketMQ部署的
+rocketMQ部署的
 
-记得开放主副     <font face="宋体" color=red>机器的端口</font>
+记得开放主副     机器的端口
 
 启动nameserver
 
